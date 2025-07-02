@@ -1,0 +1,18 @@
+
+/* Class = "IBUIButton"; normalTitle = "读取QR码"; ObjectID = "N9m-js-2AO"; */
+"N9m-js-2AO.normalTitle" = "读取QR码";
+
+/* Class = "IBUIButton"; normalTitle = "停止扫描"; ObjectID = "Tai-uJ-2lF"; */
+"Tai-uJ-2lF.normalTitle" = "停止扫描";
+
+/* Class = "IBUISegmentedControl"; kim-kE-S5C.segmentTitles[0] = "出库"; ObjectID = "kim-kE-S5C"; */
+"kim-kE-S5C.segmentTitles[0]" = "出库";
+
+/* Class = "IBUISegmentedControl"; kim-kE-S5C.segmentTitles[1] = "入库"; ObjectID = "kim-kE-S5C"; */
+"kim-kE-S5C.segmentTitles[1]" = "入库";
+
+/* Class = "IBUILabel"; text = "QR码扫描"; ObjectID = "sss-YY-CHY"; */
+"sss-YY-CHY.text" = "QR码扫描";
+
+/* Class = "IBUILabel"; text = "QR码扫描中..."; ObjectID = "x6h-kk-Td3"; */
+"x6h-kk-Td3.text" = "QR码扫描中...";

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>OCMQRScanner.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>OCMQRScanner147P.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F22C03921988F48F00ADA206</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F26912201965535E003408E6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F26912411965535E003408E6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F2FEEA06196FDC7B00097655</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

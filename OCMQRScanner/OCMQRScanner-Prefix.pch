@@ -1,0 +1,29 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#ifdef BUILD_DEBUG
+//#define Api_Server_URL @"ocsm--bp3dev.cs5.my.salesforce.com" ocsm--stagefull.sandbox.my.salesforce.com/
+//
+//#define Api_Server_URL @"ocsm--stagefull.my.salesforce.com/"
+//test
+//olympus--stagefull.sandbox.my.sfcrmproducts.cn/
+//正式
+//olympus.my.sfcrmproducts.cn/
+#define Api_Server_URL @"olympus--stagefull.sandbox.my.sfcrmproducts.cn/"
+#else
+#define Api_Server_URL @"olympus--stagefull.sandbox.my.sfcrmproducts.cn"
+#endif

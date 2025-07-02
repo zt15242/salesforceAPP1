@@ -1,0 +1,3 @@
+https://ocsm.my.salesforce.com/services/oauth2/authorize?client_id=3MVG9I1kFE5Iul2Be2rMSLeIGHmwxLdElkGnPUiyZPMGSeqYcAp1WCIShmiKP6oJiJtOZTyJaY59.tLh1uR4n&redirect_uri=http://localhost/callback&display=touch&response_type=token&scope=refresh_token%20full
+it_prectech@olympus.com.cn.stagefull
+prectech01
