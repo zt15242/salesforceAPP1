@@ -1182,7 +1182,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
 				VALIDATE_PRODUCT = YES;
@@ -1215,7 +1215,7 @@
 					"$(PROJECT_DIR)/OCMQRScanner/Dependencies/SalesforceNetworkSDK/Headers",
 				);
 				INFOPLIST_FILE = "OCMQRScanner/OCMQRScanner-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/OCMQRScanner/Dependencies/MKNetworkKit-iOS",
@@ -1269,7 +1269,7 @@
 					"$(PROJECT_DIR)/OCMQRScanner/Dependencies/SalesforceNetworkSDK/Headers",
 				);
 				INFOPLIST_FILE = "OCMQRScanner/OCMQRScanner-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/OCMQRScanner/Dependencies/MKNetworkKit-iOS",
@@ -1362,7 +1362,7 @@
 					"$(PROJECT_DIR)/OCMQRScanner/Dependencies/SalesforceNetworkSDK/Headers",
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/OCMQRScanner147P-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/OCMQRScanner/Dependencies/MKNetworkKit-iOS",
@@ -1414,7 +1414,7 @@
 					"$(PROJECT_DIR)/OCMQRScanner/Dependencies/SalesforceNetworkSDK/Headers",
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/OCMQRScanner147P-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/OCMQRScanner/Dependencies/MKNetworkKit-iOS",
