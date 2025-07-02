@@ -17,7 +17,7 @@ jobs:
     - name: Set up Xcode
       uses: maxim-lobanov/setup-xcode@v1
       with:
-        xcode-version: '14.2' # 可根据需要修改
+        xcode-version: '15.4' # 可根据需要修改
 
     # 如果你用到了 CocoaPods，请取消下面两行注释
     # - name: Install CocoaPods dependencies
